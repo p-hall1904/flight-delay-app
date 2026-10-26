@@ -55,7 +55,7 @@ latest = live_weather.iloc[-1].to_dict()
 print(predict_delay(latest, model))
 ```
 
-There is also example code in the bin/ folder.
+There is also example code in [bin/run_example.py](bin/run_example.py).
 
 ## Main functions
 
